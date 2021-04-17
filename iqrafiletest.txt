@@ -1,6 +1,3 @@
 content content content
 
-adding new line 
-adding another line
-
-new change
+changing content 
