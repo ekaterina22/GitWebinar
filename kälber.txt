@@ -1,0 +1,3 @@
+Hi, my name is Tanja and I am a student from Mannheim. Im starting my project phase in the data science track.
+
+This is my second sentence for the git workshop.
